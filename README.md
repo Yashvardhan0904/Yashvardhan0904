@@ -2,11 +2,7 @@
 
 <img src=".github/assets/banner.svg" alt="Yashvardhan Singh GitHub profile" width="900" />
 
-<h1>Hi there, I'm Yashvardhan Singh</h1>
-
-<a href="https://github.com/Yashvardhan0904">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&width=620&lines=Machine+Learning;Python+%7C+AI+%7C+Data+Science;Building+with+data+and+code" alt="Typing animation" />
-</a>
+<h1>Hi there, I'm Yashvardhan!!</h1>
 
 </div>
 
