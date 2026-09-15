@@ -19,9 +19,9 @@ jobs:
 
       - name: Generate local statistics SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
-        run: python3 scripts/generate_profile.py
+        run: python3 -u scripts/generate_profile.py
 
       - name: Commit updated statistics
         run: |

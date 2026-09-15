@@ -51,10 +51,14 @@ def fetch() -> dict:
     start = end - timedelta(days=366)
     body = json.dumps({"query": QUERY, "variables": {"login": login, "from": f"{start}T00:00:00Z", "to": f"{end}T00:00:00Z"}}).encode()
     request = urllib.request.Request("https://api.github.com/graphql", data=body, headers={"Authorization": f"bearer {token}", "Content-Type": "application/json", "User-Agent": "github-profile"})
-    with urllib.request.urlopen(request, timeout=30) as response:
-        result = json.load(response)
+    try:
+        with urllib.request.urlopen(request, timeout=30) as response:
+            result = json.load(response)
+    except urllib.error.HTTPError as error:
+        details = error.read().decode("utf-8", errors="replace")
+        raise SystemExit(f"GitHub GraphQL request failed ({error.code}): {details}") from error
     if result.get("errors"):
-        raise SystemExit(json.dumps(result["errors"]))
+        raise SystemExit(f"GitHub GraphQL returned errors: {json.dumps(result['errors'])}")
     return result["data"]["user"]
 
 
