@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" role="img" aria-label="GitHub statistics will update automatically">
+  <rect width="900" height="220" rx="14" fill="#0d0d0d" stroke="#26303c"/>
+  <text x="42" y="54" fill="#cc0000" font-size="17" font-family="monospace" font-weight="700">GITHUB STATISTICS / LIVE</text>
+  <path d="M42 74H858" stroke="#26303c"/>
+  <text x="450" y="125" text-anchor="middle" fill="#ffffff" font-size="24" font-family="monospace" font-weight="700">SYNCING GITHUB DATA</text>
+  <text x="450" y="157" text-anchor="middle" fill="#6f7782" font-size="13" font-family="monospace">The first Actions run replaces this image with live metrics.</text>
+</svg>

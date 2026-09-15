@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 70" role="img" aria-label="Web footer">
+  <style>
+    @keyframes drip { 0% { transform: translateY(0); opacity: 1; } 100% { transform: translateY(14px); opacity: 0; } }
+    .d1 { animation: drip 2s ease-in infinite; } .d2 { animation: drip 2s ease-in .7s infinite; } .d3 { animation: drip 2s ease-in 1.4s infinite; }
+  </style>
+  <path d="M0 2H900M0 2Q225 54 450 20T900 2M0 2Q225 70 450 40T900 2" fill="none" stroke="#cc0000" stroke-width="1" opacity=".7"/>
+  <circle class="d1" cx="225" cy="37" r="4" fill="#cc0000"/><circle class="d2" cx="450" cy="27" r="4" fill="#cc0000"/><circle class="d3" cx="675" cy="17" r="4" fill="#cc0000"/>
+  <text x="450" y="62" text-anchor="middle" fill="#cc0000" font-family="monospace" font-size="12" letter-spacing="3">FRIENDLY NEIGHBORHOOD DEVELOPER</text>
+</svg>

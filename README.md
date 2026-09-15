@@ -55,16 +55,12 @@ yashvardhan = {
 
 ## GitHub Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashvardhan0904&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=cc0000&icon_color=cc0000&text_color=ffffff&bg_color=0d0d0d" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvardhan0904&layout=compact&langs_count=8&hide_border=true&title_color=cc0000&text_color=ffffff&bg_color=0d0d0d" alt="Top programming languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=Yashvardhan0904&hide_border=true&background=0d0d0d&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashvardhan0904&bg_color=0d0d0d&color=ffffff&line=cc0000&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="95%" />
 
 </div>
 
@@ -128,4 +124,30 @@ jobs:
 					build_dir: dist
 				env:
 					GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div align="center">
+
+<img src=".github/assets/banner.svg" alt="Yashvardhan Singh GitHub profile" width="900" />
+
+<br />
+
+<img src=".github/generated/profile-stats.svg" alt="Live GitHub statistics, contribution activity, streaks, languages, and achievements" width="900" />
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=cc0000&labelColor=0d0d0d)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=cc0000&labelColor=0d0d0d)
+![C++](https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=cc0000&labelColor=0d0d0d)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=cc0000&labelColor=0d0d0d)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=cc0000&labelColor=0d0d0d)
+
+<br />
+
+<img src=".github/assets/footer.svg" alt="Animated web footer" width="900" />
+
+</div>
+
+<!--
+The stats image is generated from the GitHub GraphQL API by
+.github/workflows/update-profile.yml. It refreshes daily, on every push,
+and manually from the Actions tab. No personal token is required.
 -->
