@@ -6,6 +6,22 @@
 
 </div>
 
+<div align="center">
+
+<p>
+	<strong>Machine Learning · AI · Data Science</strong><br />
+	I build practical software and data-driven systems with a focus on clean engineering and useful results.
+</p>
+
+<a href="https://github.com/Yashvardhan0904">
+	<img src="https://img.shields.io/badge/GitHub-Yashvardhan0904-0d0d0d?style=for-the-badge&logo=github&logoColor=cc0000" alt="GitHub profile" />
+</a>
+<a href="mailto:yvardhan873@gmail.com">
+	<img src="https://img.shields.io/badge/Email-Contact%20me-0d0d0d?style=for-the-badge&logo=gmail&logoColor=cc0000" alt="Email Yashvardhan" />
+</a>
+
+</div>
+
 ## GitHub Stats
 
 <div align="center">
