@@ -15,13 +15,17 @@
 <div align="center">
 
 <a href="https://github.com/Yashvardhan0904">
-	<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Yashvardhan0904&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=cc0000&icon_color=cc0000&text_color=ffffff" alt="GitHub statistics" />
+	<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Yashvardhan0904&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=cc0000&icon_color=cc0000&text_color=ffffff" alt="GitHub statistics including total commits" />
 	<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yashvardhan0904&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=cc0000&text_color=ffffff" alt="Top languages" />
 </a>
 
 <br />
 
 <img src="https://streak-stats.demolab.com/?user=Yashvardhan0904&hide_border=true&background=0d0d0d&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashvardhan0904&theme=github_dark" alt="GitHub contribution summary" width="900" />
 
 </div>
 
