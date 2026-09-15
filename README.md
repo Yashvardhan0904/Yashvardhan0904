@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<strong>AI · Machine Learning · Full Stack Development</strong><br />
+<strong>AI · Full Stack Development</strong><br />
 Building practical software, data-driven systems, and useful tools.
 
 <a href="https://github.com/Yashvardhan0904">
