@@ -14,7 +14,14 @@
 
 <div align="center">
 
-<img src=".github/generated/profile-stats.svg" alt="GitHub statistics, contribution activity, streaks, language distribution, and repository analytics" width="900" />
+<a href="https://github.com/Yashvardhan0904">
+	<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Yashvardhan0904&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=cc0000&icon_color=cc0000&text_color=ffffff" alt="GitHub statistics" />
+	<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yashvardhan0904&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=cc0000&text_color=ffffff" alt="Top languages" />
+</a>
+
+<br />
+
+<img src="https://streak-stats.demolab.com/?user=Yashvardhan0904&hide_border=true&background=0d0d0d&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
 
 </div>
 
