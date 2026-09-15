@@ -2,11 +2,7 @@
 
 <h1>Hi there, I'm Yashvardhan!!</h1>
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yashvardhan0904/Yashvardhan0904/github-breakout/images/breakout-dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yashvardhan0904/Yashvardhan0904/github-breakout/images/breakout-light.svg" />
-	<img src="https://raw.githubusercontent.com/Yashvardhan0904/Yashvardhan0904/github-breakout/images/breakout-light.svg" alt="GitHub contribution breakout animation" width="900" />
-</picture>
+<img src="https://raw.githubusercontent.com/Yashvardhan0904/Yashvardhan0904/github-breakout/images/breakout-dark.svg" alt="GitHub contribution breakout animation" width="900" />
 
 </div>
 
