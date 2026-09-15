@@ -1,3 +1,19 @@
+<div align="center">
+
+# GITHUB ACTIVITY
+
+<sub>YASHVARDHAN0904 / PUBLIC DEVELOPMENT TELEMETRY</sub>
+
+<br />
+<br />
+
+<img src=".github/generated/dashboard.svg" alt="GitHub analytics dashboard showing contribution activity, repository statistics, language distribution, streaks, and achievements" width="100%" />
+
+</div>
+
+<br />
+
+<p align="center"><sub>UPDATED AUTOMATICALLY FROM GITHUB · <a href="https://github.com/Yashvardhan0904/Yashvardhan0904/actions/workflows/update-dashboard.yml">VIEW PIPELINE</a></sub></p>
 <!--
 ╔══════════════════════════════════════════════════════════╗
 ║        YASHVARDHAN0904 — GITHUB PROFILE README           ║
