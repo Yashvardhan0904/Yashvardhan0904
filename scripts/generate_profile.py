@@ -67,7 +67,11 @@ def render(user: dict) -> str:
     calendar = collection["contributionCalendar"]
     days = [day for week in calendar["weeks"] for day in week["contributionDays"]]
     repos = user["repositories"]["nodes"]
-    languages = Counter(repo["primaryLanguage"]["name"] for repo in repos if repo.get("primaryLanguage"))
+    languages = Counter(
+        language["name"]
+        for repo in repos
+        if (language := repo.get("primaryLanguage") or {}).get("name")
+    )
     stars = sum(repo["stargazerCount"] for repo in repos)
     forks = sum(repo["forkCount"] for repo in repos)
     active = {item["date"]: item["contributionCount"] for item in days}
@@ -124,7 +128,14 @@ def render(user: dict) -> str:
     cursor_x = 68
     for language, count in languages.most_common(8):
         width = max(10, int(760 * count / total))
-        color = next((repo["primaryLanguage"]["color"] for repo in repos if repo.get("primaryLanguage", {}).get("name") == language), "#cc0000")
+        color = next(
+            (
+                (repo.get("primaryLanguage") or {}).get("color")
+                for repo in repos
+                if (repo.get("primaryLanguage") or {}).get("name") == language
+            ),
+            "#cc0000",
+        )
         svg.append(f'<rect x="{cursor_x}" y="845" width="{width}" height="16" rx="4" fill="{color or "#cc0000"}"/>')
         svg.append(txt(cursor_x, 886, f"{language} {count / total:.0%}", 10, "#b8c0cc", "700"))
         cursor_x += width + 12
