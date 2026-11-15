@@ -37,14 +37,13 @@ class Yashvardhan:
 
 ## Tech Stack
 
-| | |
-| :-- | :-- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,cpp,java&theme=dark" height="40" alt="Languages" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" height="40" alt="Frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="40" alt="Backend" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" height="40" alt="Databases" /> |
-| **AI / Data** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" height="40" alt="AI and Data" /> <img src="https://img.shields.io/badge/Colab-0d0d0d?style=flat-square&logo=googlecolab&logoColor=F9AB00" alt="Colab" /> <img src="https://img.shields.io/badge/Jupyter-0d0d0d?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" height="40" alt="Tools" /> |
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,cpp,java&theme=dark" height="40" alt="Languages" /> 
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" height="40" alt="Frontend" /> 
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="40" alt="Backend" />
+ <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" height="40" alt="Databases" /> 
+ <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" height="40" alt="AI and Data" /> <img src="https://img.shields.io/badge/Colab-0d0d0d?style=flat-square&logo=googlecolab&logoColor=F9AB00" alt="Colab" /> <img src="https://img.shields.io/badge/Jupyter-0d0d0d?style=flat-square&logo=jupyter&logoColor=F37626" alt="Jupyter" /> 
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark" height="40" alt="Tools" /> 
 
 ---
 
