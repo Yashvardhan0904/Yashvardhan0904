@@ -22,12 +22,7 @@ Building practical software, data-driven systems, and useful tools.
 
 ## GitHub Stats
 
-<div align="center">
 
-<a href="https://github.com/Yashvardhan0904">
-	<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Yashvardhan0904&show_icons=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=cc0000&icon_color=cc0000&text_color=ffffff" alt="GitHub statistics including total commits" />
-	<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Yashvardhan0904&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=cc0000&text_color=ffffff" alt="Top languages" />
-</a>
 
 </div>
 
